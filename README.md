@@ -1,2 +1,2 @@
 # IM-NIO
-IM server by java nio.
+IM server by java nio & netty.
